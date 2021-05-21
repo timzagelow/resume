@@ -1,12 +1,12 @@
 <template>
   <div>
-    <b-row>
-      <b-col>
-        <b-card
+        <b-row>
+          <b-col sm="6">
+            <b-card
         header="Records By Mail"
         title="Full Stack Developer"
-        class="mb-2"
-        bg-variant="light">
+        bg-variant="light"
+        class="mb-3">
           <b-card-text>
           Feb 2019 - Present
           </b-card-text>
@@ -30,14 +30,35 @@
           
           </b-list-group>
         </b-card>
-      </b-col>
 
-      <b-col>
+<b-card
+        header="Records By Mail"
+        title="Web Developer"
+        bg-variant="light"
+        class="mb-3">
+          <b-card-text>
+          Oct 2006 - Aug 2016
+          </b-card-text>
+
+          <b-list-group>
+            <b-list-group-item>
+              Sole developer and designer for entire responsive e-commerce website using HTML5, CSS3, vanilla Javascript, PHP, and MySQL.
+            </b-list-group-item>
+            <b-list-group-item>
+              Built customized inventory and order management application for ultra-efficient data entry and order processing. Back-end uses REST interface consumption of eBay, PayPal, Amazon and Discogs APIs. Written using jQuery, Vue, HTML, CSS, PHP, and MySQL.
+            </b-list-group-item>
+            <b-list-group-item>
+              Responsible for web server administration (Ubuntu w/ LAMP stack) and basic maintenance.
+            </b-list-group-item>
+          </b-list-group>
+        </b-card>
+          </b-col>
+          <b-col sm="6">
         <b-card
         header="Compli / KPA"
         title="Lead Software Engineer"
-        class="mb-2"
-        bg-variant="light">
+        bg-variant="light"
+        class="mb-3">
           <b-card-text>
           Aug 2016 - Feb 2019
           </b-card-text>
@@ -63,8 +84,9 @@
             </b-list-group-item>
           </b-list-group>
         </b-card>
-      </b-col>
-    </b-row>
+          </b-col>
+        </b-row>
+        
   </div>
 </template>
 

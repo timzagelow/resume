@@ -13,6 +13,10 @@
           <experience></experience>
         </b-col>
       </b-row>
+
+      
+      <h4>Skills</h4>
+      <skills></skills>
     </b-container>
   </div>
 </template>
@@ -20,12 +24,13 @@
 <script>
 
 import Experience from "./components/Experience";
-// import Experience from './components/Experience.vue';
+import Skills from "./components/Skills";
 
 export default {
   name: 'App',
   components: {
-    Experience
+    Experience,
+    Skills,
   },
   created() {
     document.title = "Tim Zagelow";
