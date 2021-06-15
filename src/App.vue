@@ -30,13 +30,12 @@
         </b-col>
       </b-row>
 
-      
       <h4>Skills</h4>
       <skills></skills>
 
       <b-row class="mt-5 mb-3">
         <b-col class="text-center">
-          <h5 class="text-secondary"><em>Built with Vue &amp; Bootstrap; deployed on Fleek/Internet Computer</em></h5>
+          <h5 class="text-secondary"><em>Built with Vue &amp; Bootstrap; deployed on <b-link target="_blank" href="https://fleek.co/">Fleek</b-link>/<b-link target="_blank" href="https://dfinity.org/">Internet Computer</b-link></em></h5>
         </b-col>
       </b-row>
     </b-container>

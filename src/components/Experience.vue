@@ -13,16 +13,16 @@
 
           <b-list-group>
             <b-list-group-item>
-              Built 200,000+ unit inventory and order management system using Node, Mongo, Redis, Auth0 and Vue. Deployed APIs using microservice architecture onto AWS EC2 instances. Wrote unit tests for application logic.
+              Built 200,000+ unit inventory and order management system using Node, Mongo, Redis, Auth0 and Vue. Deployed APIs using microservice architecture onto AWS EC2 instances. Wrote unit tests (Mocha, Chai) for application logic.
             </b-list-group-item>
             <b-list-group-item>
-              Numerous marketplace integrations via REST APIs including eBay and Discogs. Experience with OAuth, CloudWatch for monitoring and alerting.
+              Numerous marketplace integrations via REST APIs including eBay, Amazon and Discogs. Experience with OAuth, CloudWatch for monitoring and alerting.
             </b-list-group-item>
             <b-list-group-item>
               Restructured staff for efficiency gains and positive environment changes.
             </b-list-group-item>
             <b-list-group-item>
-              Rebuilt company dashboard using VueJS, PHP and MySQL to provide sales trend insights and employee productivity metrics.
+              Rebuilt company dashboard using Vue, PHP and MySQL to provide sales trend insights and employee productivity metrics.
             </b-list-group-item>
             <b-list-group-item>
               Ran direct mail marketing campaign to purchase profitable record collections around the country.
