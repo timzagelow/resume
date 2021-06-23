@@ -19,8 +19,7 @@
           <b-list-group>
             <b-list-group-item>Phone: 503-758-8384</b-list-group-item>
             <b-list-group-item>Email: <b-link href="mailto:timzagelow@gmail.com">timzagelow@gmail.com</b-link></b-list-group-item>
-            <b-list-group-item>Code: <b-link href="https://github.com/timzagelow">GitHub</b-link></b-list-group-item>
-
+            <b-list-group-item>Code: <b-link href="https://github.com/timzagelow" target="_blank">GitHub</b-link></b-list-group-item>
           </b-list-group>
         </b-col>
       </b-row>
