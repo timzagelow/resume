@@ -18,6 +18,7 @@
                 <b-list-group-item>Laravel</b-list-group-item>
                 <b-list-group-item>Express</b-list-group-item>
                 <b-list-group-item>Bootstrap</b-list-group-item>
+                <b-list-group-item>Tailwinds</b-list-group-item>
                 <b-list-group-item>jQuery</b-list-group-item>
             </b-list-group>
           </b-col>

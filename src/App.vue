@@ -11,7 +11,8 @@
         <b-col cols="6">
           <h4>About Me</h4>
           <h5><em>I am passionate about solving challenging technology problems. I hold myself to the highest standard with regards to engineering, teamwork and aesthetics.</em></h5>
-          <h5 class="mt-3"><em>My interests include blockchain/web3, crypto, freedom, weight-lifting and vinyl records.</em></h5>
+          <h5 class="mt-3"><em>My interests include blockchain/web3, crypto, NFTs, freedom, weight-lifting and vinyl records.</em></h5>
+          <h5 class="mt-3"><em>Currently learning React, Rust and Python with a side project I'm building in the NFT space.</em></h5>
         </b-col>
 
         <b-col>

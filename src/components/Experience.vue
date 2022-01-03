@@ -1,7 +1,31 @@
 <template>
   <div>
+
         <b-row>
           <b-col sm="6">
+            <b-card
+        header="Remax"
+        title="Software Engineer"
+        bg-variant="light"
+        class="mb-3">
+          <b-card-text>
+          Aug 2021 - Present
+          </b-card-text>
+
+          <b-list-group>
+            <b-list-group-item>
+              Top-performing engineer on Campaigns team. I look for the worst bugs/issues and dive in head-first.
+            </b-list-group-item>
+            <b-list-group-item>
+              Hired to work on frontend Vue stack. Quickly progressed to full-stack which includes Laravel, MySQL and Elastic Search.
+            </b-list-group-item>
+            <b-list-group-item>
+              Continually pushing team to put out clean, professional code with good test coverage.
+            </b-list-group-item>
+          </b-list-group>
+        </b-card>
+        </b-col>
+        <b-col>
             <b-card
         header="Records By Mail"
         title="Full Stack Developer"
@@ -30,29 +54,9 @@
           
           </b-list-group>
         </b-card>
-
-<b-card
-        header="Records By Mail"
-        title="Web Developer"
-        bg-variant="light"
-        class="mb-3">
-          <b-card-text>
-          Oct 2006 - Aug 2016
-          </b-card-text>
-
-          <b-list-group>
-            <b-list-group-item>
-              Sole developer and designer for entire responsive e-commerce website using HTML5, CSS3, vanilla Javascript, PHP, and MySQL.
-            </b-list-group-item>
-            <b-list-group-item>
-              Built customized inventory and order management application for ultra-efficient data entry and order processing. Back-end uses REST interface consumption of eBay, PayPal, Amazon and Discogs APIs. Written using jQuery, Vue, HTML, CSS, PHP, and MySQL.
-            </b-list-group-item>
-            <b-list-group-item>
-              Responsible for web server administration (Ubuntu w/ LAMP stack) and basic maintenance.
-            </b-list-group-item>
-          </b-list-group>
-        </b-card>
           </b-col>
+        </b-row>
+        <b-row>
           <b-col sm="6">
         <b-card
         header="Compli / KPA"
@@ -85,6 +89,30 @@
           </b-list-group>
         </b-card>
           </b-col>
+          <b-col>
+<b-card
+        header="Records By Mail"
+        title="Web Developer"
+        bg-variant="light"
+        class="mb-3">
+          <b-card-text>
+          Oct 2006 - Aug 2016
+          </b-card-text>
+
+          <b-list-group>
+            <b-list-group-item>
+              Sole developer and designer for entire responsive e-commerce website using HTML5, CSS3, vanilla Javascript, PHP, and MySQL.
+            </b-list-group-item>
+            <b-list-group-item>
+              Built customized inventory and order management application for ultra-efficient data entry and order processing. Back-end uses REST interface consumption of eBay, PayPal, Amazon and Discogs APIs. Written using jQuery, Vue, HTML, CSS, PHP, and MySQL.
+            </b-list-group-item>
+            <b-list-group-item>
+              Responsible for web server administration (Ubuntu w/ LAMP stack) and basic maintenance.
+            </b-list-group-item>
+          </b-list-group>
+        </b-card>
+          </b-col>
+          
         </b-row>
         
   </div>
