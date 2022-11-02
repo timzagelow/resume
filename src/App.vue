@@ -3,24 +3,32 @@
     <b-container>
       <b-row class="mb-5">
         <b-col>
-              <h2 class="text-success">Tim Zagelow</h2>
+              <h2 class="text-success">voidmanevoid</h2>
         </b-col>
       </b-row>
 
-      <b-row class="mb-5">
-        <b-col cols="6">
+      <b-row>
+        <b-col sm="6" class="mb-5">
           <h4>About Me</h4>
           <h5><em>I am passionate about solving challenging technology problems. I hold myself to the highest standard with regards to engineering, teamwork and aesthetics.</em></h5>
-          <h5 class="mt-3"><em>My interests include blockchain/web3, crypto, NFTs, freedom, weight-lifting and vinyl records.</em></h5>
-          <h5 class="mt-3"><em>Currently learning React, Rust and Python with a side project I'm building in the NFT space.</em></h5>
+          <h5 class="mt-3"><em>My interests include web3, NFTs, freedom, weight-lifting and vinyl records.</em></h5>
+
+          <h5 class="mt-3"><em>Slowly building a music NFT marketplace with generative audio capabilities. Using React, Python and Metaplex.</em></h5>
         </b-col>
 
-        <b-col>
+        <b-col class="mb-5">
           <h4>Contact</h4>
           <b-list-group>
-            <b-list-group-item>Phone: 503-758-8384</b-list-group-item>
-            <b-list-group-item>Email: <b-link href="mailto:timzagelow@gmail.com">timzagelow@gmail.com</b-link></b-list-group-item>
-            <b-list-group-item>Code: <b-link href="https://github.com/timzagelow" target="_blank">GitHub</b-link></b-list-group-item>
+            <!-- <b-list-group-item>Phone: 503-758-8384</b-list-group-item> -->
+            <b-list-group-item>Email: <b-link href="mailto:voidarelli@protonmail.com">voidarelli@protonmail.com</b-link></b-list-group-item>
+            <!-- <b-list-group-item>Code: <b-link href="https://github.com/timzagelow" target="_blank">GitHub</b-link></b-list-group-item> -->
+          </b-list-group>
+
+          <h4 class="mt-5">Projects</h4>
+          <b-list-group>
+            <b-list-group-item><b-link target="_blank" href="https://recordsbymail.com/">Records By Mail</b-link></b-list-group-item>
+            <b-list-group-item><b-link target="_blank"  href="https://bassmoney.io/">Bass Money NFT</b-link></b-list-group-item>
+            <b-list-group-item><b-link target="_blank"  href="https://twitter.com/cets_sales">Cets Sales Bot</b-link></b-list-group-item>
           </b-list-group>
         </b-col>
       </b-row>
@@ -56,7 +64,7 @@ export default {
     Skills,
   },
   created() {
-    document.title = "Tim Zagelow";
+    document.title = "voidmanevoid";
   }
 }
 </script>

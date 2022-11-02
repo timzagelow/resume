@@ -1,29 +1,31 @@
 <template>
   <div>
       <b-row>
-          <b-col>
+          <b-col class="mb-5">
             <b-list-group>
                 <b-list-group-item variant="secondary">Languages</b-list-group-item>
                 <b-list-group-item>Node</b-list-group-item>
                 <b-list-group-item>Javascript (ES6)</b-list-group-item>
                 <b-list-group-item>PHP</b-list-group-item>
+                <b-list-group-item>Python</b-list-group-item>
                 <b-list-group-item>HTML5</b-list-group-item>
             </b-list-group>
           </b-col>
 
-          <b-col>
+          <b-col class="mb-5">
             <b-list-group>
                 <b-list-group-item variant="secondary">Frameworks</b-list-group-item>
                 <b-list-group-item>Vue</b-list-group-item>
+                <b-list-group-item>React</b-list-group-item>
+                <b-list-group-item>web3.js</b-list-group-item>
+                <b-list-group-item>Metaplex</b-list-group-item>
                 <b-list-group-item>Laravel</b-list-group-item>
-                <b-list-group-item>Express</b-list-group-item>
                 <b-list-group-item>Bootstrap</b-list-group-item>
                 <b-list-group-item>Tailwind</b-list-group-item>
-                <b-list-group-item>jQuery</b-list-group-item>
             </b-list-group>
           </b-col>
           
-          <b-col>
+          <b-col class="mb-5">
             <b-list-group>
                 <b-list-group-item variant="secondary">Databases</b-list-group-item>                
                 <b-list-group-item>Mongo</b-list-group-item>
