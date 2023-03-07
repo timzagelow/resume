@@ -3,7 +3,7 @@
     <b-container>
       <b-row class="mb-5">
         <b-col>
-              <h2 class="text-success">voidmanevoid</h2>
+              <h2 class="text-success">Tim Zagelow</h2>
         </b-col>
       </b-row>
 
@@ -20,7 +20,7 @@
           <h4>Contact</h4>
           <b-list-group>
             <!-- <b-list-group-item>Phone: 503-758-8384</b-list-group-item> -->
-            <b-list-group-item>Email: <b-link href="mailto:voidarelli@protonmail.com">voidarelli@protonmail.com</b-link></b-list-group-item>
+            <b-list-group-item>Email: <b-link href="mailto:timzagelow@gmail.com">timzagelow@gmail.com</b-link></b-list-group-item>
             <!-- <b-list-group-item>Code: <b-link href="https://github.com/timzagelow" target="_blank">GitHub</b-link></b-list-group-item> -->
           </b-list-group>
 
@@ -64,7 +64,7 @@ export default {
     Skills,
   },
   created() {
-    document.title = "voidmanevoid";
+    document.title = "Tim Zagelow Resume";
   }
 }
 </script>
