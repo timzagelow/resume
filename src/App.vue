@@ -11,8 +11,8 @@
         <b-col cols="6">
           <h4>About Me</h4>
           <h5><em>I am passionate about solving challenging technology problems. I hold myself to the highest standard with regards to engineering, teamwork and aesthetics.</em></h5>
-          <h5 class="mt-3"><em>My interests include blockchain/web3, crypto, NFTs, freedom, weight-lifting and vinyl records.</em></h5>
-          <h5 class="mt-3"><em>Currently learning React, Rust and Python with a side project I'm building in the NFT space.</em></h5>
+          <h5 class="mt-3"><em>My interests include blockchain/web3, NFTs, freedom, weight-lifting and vinyl records.</em></h5>
+          <h5 class="mt-3"><em>Currently learning Rust with various side projects I've been working on!</em></h5>
         </b-col>
 
         <b-col>
@@ -20,7 +20,7 @@
           <b-list-group>
             <b-list-group-item>Phone: 503-758-8384</b-list-group-item>
             <b-list-group-item>Email: <b-link href="mailto:timzagelow@gmail.com">timzagelow@gmail.com</b-link></b-list-group-item>
-            <b-list-group-item>Code: <b-link href="https://github.com/timzagelow" target="_blank">GitHub</b-link></b-list-group-item>
+            <!-- <b-list-group-item>Code: <b-link href="https://github.com/timzagelow" target="_blank">GitHub</b-link></b-list-group-item> -->
           </b-list-group>
         </b-col>
       </b-row>

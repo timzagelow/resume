@@ -4,12 +4,36 @@
         <b-row>
           <b-col sm="6">
             <b-card
+        header="Coin Payments"
+        title="Lead Developer"
+        bg-variant="light"
+        class="mb-3">
+          <b-card-text>
+          Aug 2022 - Present
+          </b-card-text>
+
+          <b-list-group>
+            <b-list-group-item>
+              The go-to developer for app enhancements, data reporting, and bug fixes.
+            </b-list-group-item>
+            <b-list-group-item>
+              Currently migrating legacy PHP platform to modernized C# platform using the strangler pattern.
+            </b-list-group-item>
+            <b-list-group-item>
+              Responsible for maintaining app servers and RPC nodes for 1,500+ supported cryptos.            
+            </b-list-group-item>
+          </b-list-group>
+        </b-card>
+        </b-col>
+
+          <b-col sm="6">
+            <b-card
         header="Remax"
         title="Software Engineer"
         bg-variant="light"
         class="mb-3">
           <b-card-text>
-          Aug 2021 - Present
+          2021 - 2022
           </b-card-text>
 
           <b-list-group>
@@ -25,6 +49,9 @@
           </b-list-group>
         </b-card>
         </b-col>
+        </b-row>
+
+        <b-row>
         <b-col>
             <b-card
         header="Records By Mail"
@@ -32,12 +59,15 @@
         bg-variant="light"
         class="mb-3">
           <b-card-text>
-          Feb 2019 - Present
+          2006 - 2016, 2019 - Present
           </b-card-text>
 
           <b-list-group>
             <b-list-group-item>
               Built 200,000+ unit inventory and order management system using Node, Mongo, Redis, Auth0 and Vue. Deployed APIs using microservice architecture onto AWS EC2 instances. Wrote unit tests (Mocha, Chai) for application logic.
+            </b-list-group-item>
+            <b-list-group-item>
+            Sole developer and designer for entire responsive e-commerce website using Vue, HTML5, and CSS3.
             </b-list-group-item>
             <b-list-group-item>
               Numerous marketplace integrations via REST APIs including eBay, Amazon and Discogs. Experience with OAuth, CloudWatch for monitoring and alerting.
@@ -51,12 +81,10 @@
             <b-list-group-item>
               Ran direct mail marketing campaign to purchase profitable record collections around the country.
             </b-list-group-item>
-          
           </b-list-group>
         </b-card>
           </b-col>
-        </b-row>
-        <b-row>
+
           <b-col sm="6">
         <b-card
         header="Compli / KPA"
@@ -89,30 +117,6 @@
           </b-list-group>
         </b-card>
           </b-col>
-          <b-col>
-<b-card
-        header="Records By Mail"
-        title="Web Developer"
-        bg-variant="light"
-        class="mb-3">
-          <b-card-text>
-          Oct 2006 - Aug 2016
-          </b-card-text>
-
-          <b-list-group>
-            <b-list-group-item>
-              Sole developer and designer for entire responsive e-commerce website using HTML5, CSS3, vanilla Javascript, PHP, and MySQL.
-            </b-list-group-item>
-            <b-list-group-item>
-              Built customized inventory and order management application for ultra-efficient data entry and order processing. Back-end uses REST interface consumption of eBay, PayPal, Amazon and Discogs APIs. Written using jQuery, Vue, HTML, CSS, PHP, and MySQL.
-            </b-list-group-item>
-            <b-list-group-item>
-              Responsible for web server administration (Ubuntu w/ LAMP stack) and basic maintenance.
-            </b-list-group-item>
-          </b-list-group>
-        </b-card>
-          </b-col>
-          
         </b-row>
         
   </div>
