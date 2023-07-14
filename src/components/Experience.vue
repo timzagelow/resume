@@ -1,30 +1,6 @@
 <template>
   <div>
         <b-row>
-            <b-col sm="6">
-            <b-card
-        header="CoinPayments"
-        title="Lead Developer"
-        bg-variant="light"
-        class="mb-3">
-          <b-card-text>
-          Aug 2022 - Present
-          </b-card-text>
-
-          <b-list-group>
-            <b-list-group-item>
-              The go-to developer for app enhancements, data reporting, and bug fixes.
-            </b-list-group-item>
-            <b-list-group-item>
-              Currently migrating legacy PHP platform to modernized C# platform using the strangler pattern.
-            </b-list-group-item>
-            <b-list-group-item>
-              Responsible for maintaining app servers and RPC nodes for 1,500+ supported cryptos.
-            </b-list-group-item>
-          </b-list-group>
-        </b-card>
-        </b-col>
-
           <b-col sm="6">
             <b-card
         header="Coin Payments"
