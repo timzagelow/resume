@@ -1,7 +1,30 @@
 <template>
   <div>
-
         <b-row>
+            <b-col sm="6">
+            <b-card
+        header="CoinPayments"
+        title="Lead Developer"
+        bg-variant="light"
+        class="mb-3">
+          <b-card-text>
+          Aug 2022 - Present
+          </b-card-text>
+
+          <b-list-group>
+            <b-list-group-item>
+              The go-to developer for app enhancements, data reporting, and bug fixes.
+            </b-list-group-item>
+            <b-list-group-item>
+              Currently migrating legacy PHP platform to modernized C# platform using the strangler pattern.
+            </b-list-group-item>
+            <b-list-group-item>
+              Responsible for maintaining app servers and RPC nodes for 1,500+ supported cryptos.
+            </b-list-group-item>
+          </b-list-group>
+        </b-card>
+        </b-col>
+
           <b-col sm="6">
             <b-card
         header="Coin Payments"
@@ -38,13 +61,13 @@
 
           <b-list-group>
             <b-list-group-item>
-              Top-performing engineer on Campaigns team. I look for the worst bugs/issues and dive in head-first.
+              Top-performing engineer on Campaigns team. Looked for the worst bugs/issues and dove in head-first.
             </b-list-group-item>
             <b-list-group-item>
-              Hired to work on frontend Vue stack. Quickly progressed to full-stack which includes Laravel, MySQL and Elastic Search.
+              Hired to work on frontend Vue/Tailwinds stack. Quickly progressed to full-stack which includes Laravel, MySQL and Elastic Search.
             </b-list-group-item>
             <b-list-group-item>
-              Continually pushing team to put out clean, professional code with good test coverage.
+              Continually pushed team to put out clean, professional code with good test coverage.
             </b-list-group-item>
           </b-list-group>
         </b-card>
@@ -73,10 +96,10 @@
               Numerous marketplace integrations via REST APIs including eBay, Amazon and Discogs. Experience with OAuth, CloudWatch for monitoring and alerting.
             </b-list-group-item>
             <b-list-group-item>
-              Restructured staff for efficiency gains and positive environment changes.
+              Numerous marketplace integrations via REST APIs including eBay, Amazon and Discogs. Experience with OAuth, CloudWatch for monitoring and alerting.
             </b-list-group-item>
             <b-list-group-item>
-              Rebuilt company dashboard using Vue, PHP and MySQL to provide sales trend insights and employee productivity metrics.
+              Restructured staff for efficiency gains and positive environment changes.
             </b-list-group-item>
             <b-list-group-item>
               Ran direct mail marketing campaign to purchase profitable record collections around the country.

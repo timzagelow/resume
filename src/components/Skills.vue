@@ -1,18 +1,19 @@
 <template>
   <div>
       <b-row>
-          <b-col>
+          <b-col class="mb-5">
             <b-list-group>
                 <b-list-group-item variant="secondary">Languages</b-list-group-item>
                 <b-list-group-item>Node</b-list-group-item>
                 <b-list-group-item>Javascript (ES6) / Typescript</b-list-group-item>
                 <b-list-group-item>PHP</b-list-group-item>
+                <b-list-group-item>Python</b-list-group-item>
                 <b-list-group-item>HTML5</b-list-group-item>
                 <b-list-group-item>Rust</b-list-group-item>
             </b-list-group>
           </b-col>
 
-          <b-col>
+          <b-col class="mb-5">
             <b-list-group>
                 <b-list-group-item variant="secondary">Frameworks</b-list-group-item>
                 <b-list-group-item>React</b-list-group-item>
@@ -24,7 +25,7 @@
             </b-list-group>
           </b-col>
           
-          <b-col>
+          <b-col class="mb-5">
             <b-list-group>
                 <b-list-group-item variant="secondary">Databases</b-list-group-item>                
                 <b-list-group-item>Mongo</b-list-group-item>
